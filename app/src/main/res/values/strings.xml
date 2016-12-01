@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Audio Recording Try</string>
+    <string name="play_text">Start, Stop And Restart Recording</string>
+    <string name="play_text2">Play Recording Button</string>
+</resources>
